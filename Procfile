@@ -1,1 +1,1 @@
-worker: node yasuocancer1.js
+worker: node Yasuo.js
